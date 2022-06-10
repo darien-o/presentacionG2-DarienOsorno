@@ -14,8 +14,13 @@ Repositorio de practica para hacer fork, del campus, Unidad 1
 Para agregar su información por favor seguir esta plantilla:
 
 ```html
-<div class="row container">
-  <h2>Nombre</h2>
-  <p>Presentacion</p>
+<div class="row card 12">
+  <div class="card-body">
+    <h5 class="card-title">Nombre</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Carrera</h6>
+    <p class="card-text">
+      Descripcion
+    </p>
+  </div>
 </div>
 ```
