@@ -5,7 +5,7 @@ Repositorio de practica para hacer fork, del campus, Unidad 1
 ## Integrantes
 - Luis Rosales
 - Katerine Isaza
-- Juan Valencia
+- Jhonatan Enríquez
 - Juan Valderrama
 - Sergio Sanchez
 - Darien Osorno
@@ -13,9 +13,9 @@ Repositorio de practica para hacer fork, del campus, Unidad 1
 ## Instrucciones
 Para agregar su información por favor seguir esta plantilla:
 
-'''
-<div class="">
+```html
+<div class="row container">
   <h2>Nombre</h2>
   <p>Presentacion</p>
 </div>
-'''
+```
